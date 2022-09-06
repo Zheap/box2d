@@ -5,3 +5,8 @@ settings.ini
 CMakeSettings.json
 out/
 .vs/
+bin/
+bin-int/
+Box2D.vcxproj
+Box2D.vcxproj.filters
+Box2D.vcxproj.user
